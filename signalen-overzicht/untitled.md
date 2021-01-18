@@ -6,7 +6,6 @@ description: Een kort overzicht van Signalen
 
 ## Draft table of contents for Implementation Guide
 
-## 
 
 * Werkinstructies
   * Melding maken \(interne melding, meldingen via Signalen, meldingen via Buitenbeter, whatsapp, telefonisch etc\)
@@ -25,5 +24,4 @@ description: Een kort overzicht van Signalen
 * KPI’s \(Klanttevredenheid en Doorlooptijd\)
 * Beheer \(aanvraag nieuwe subcategorie, aanpassing servicebelofte etc\)
 
-oor de werkinstructies kan je denken aan een volgende structuur voor de mappen:
-
+Nog een aanvulling
