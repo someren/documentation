@@ -4,7 +4,7 @@
 
 ## Signalen Overzicht
 
-* [Untitled](signalen-overzicht/untitled.md)
+* [Introductie](signalen-overzicht/untitled.md)
 
 ## Gebruikers Handleiding
 
