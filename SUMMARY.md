@@ -2,15 +2,19 @@
 
 * [Introductie](README.md)
 
-## Installatie gids
+## Signalen Overzicht
 
-* [Introductie](installatie-gids/untitled.md)
+* [Untitled](signalen-overzicht/untitled.md)
+
+## Gebruikers Handleiding
+
+* [Introduction](gebruikers-handleiding/untitled.md)
 
 ## Implementatie Gids
 
 * [Introductie](implementatie-gids/untitled.md)
 
-## Gebruikers Handleiding
+## Installatie gids
 
-* [Introduction](gebruikers-handleiding/untitled.md)
+* [Introductie](installatie-gids/untitled.md)
 
