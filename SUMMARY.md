@@ -1,20 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introductie](README.md)
+* [Untitled](untitled.md)
 
-## Signalen Overview
+## Signalen Overzicht
 
-* [Introduction](signalen-overview/introduction.md)
+* [Introductie](signalen-overzicht/untitled.md)
 
-## User Guide
+## Gebruikers Handleiding
 
-* [Introduction](user-guide/untitled.md)
+* [Introduction](gebruikers-handleiding/untitled.md)
 
-## Installation Guide
+## Implementatie Gids
 
-* [Introduction](installation-guide/untitled.md)
+* [Introductie](installatie-gids/untitled.md)
 
-## Implementation Guide
+## Installatie gids
 
-* [Introduction](implementation-guide/untitled.md)
+* [Introductie](installatie-gids/untitled.md)
 
