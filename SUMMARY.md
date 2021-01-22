@@ -9,8 +9,6 @@
 
 ## Gebruikers Handleiding
 
-* [Handleiding import](gebruikers-handleiding/untitled.md)
-
 ## Implementatie Gids
 
 * [Introductie](installatie-gids/untitled.md)
