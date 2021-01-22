@@ -1,4 +1,4 @@
 # Introductie
 
-## Kijken of de sync ook de andere kant op werkt
+## Kijken of de sync ook de andere kant op werkt..
 
