@@ -15,6 +15,7 @@
 * [Inleiding](inleiding.md)
 * [Inloggen](inloggen.md)
 * [Een melding maken](een-melding-maken.md)
+* [Een melding behandelen](een-melding-behandelen.md)
 
 ## Implementatie Gids
 
