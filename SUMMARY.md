@@ -9,12 +9,11 @@
 
 ## Gebruikers Handleiding
 
+---
+
+* [Inleiding](inleiding.md)
+
 ## Implementatie Gids
 
-* [Introductie](installatie-gids/untitled.md)
-
 ## Installatie gids
-
-* [Introductie](installatie-gids/untitled.md)
-* [Inleiding](installatie-gids/inleiding.md)
 
