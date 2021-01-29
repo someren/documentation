@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introductie](README.md)
-* [Untitled](untitled.md)
+* [Welkom](README.md)
 
 ## Signalen Overzicht
 
@@ -11,11 +10,11 @@
 
 ---
 
-* [Import handleiding SIA](import-handleiding-sia.md)
 * [Inleiding](inleiding.md)
 * [Inloggen](inloggen.md)
 * [Een melding maken](een-melding-maken.md)
 * [Een melding behandelen](een-melding-behandelen.md)
+* [Import handleiding SIA](import-handleiding-sia.md)
 
 ## Implementatie Gids
 

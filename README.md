@@ -1,4 +1,6 @@
-# Introductie
+# Welkom
 
-## Kijken of de sync ook de andere kant op werkt..
+Welkom bij de documentatie van Signalen.
+
+
 
