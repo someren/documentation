@@ -12,6 +12,7 @@
 ---
 
 * [Inleiding](inleiding.md)
+* [Inloggen](inloggen.md)
 
 ## Implementatie Gids
 
