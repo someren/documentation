@@ -16,4 +16,5 @@
 ## Installatie gids
 
 * [Introductie](installatie-gids/untitled.md)
+* [Inleiding](installatie-gids/inleiding.md)
 
