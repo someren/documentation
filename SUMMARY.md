@@ -14,7 +14,7 @@
 * [Inloggen](inloggen.md)
 * [Een melding maken](een-melding-maken.md)
 * [Een melding behandelen](een-melding-behandelen.md)
-* [Import handleiding SIA](import-handleiding-sia.md)
+* [Veel gestelde vragen](veel-gestelde-vragen.md)
 
 ## Implementatie Gids
 
