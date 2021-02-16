@@ -4,13 +4,13 @@
 
 Een melding wordt op hoofdlijnen volgens een bepaald proces afgehandeld. Dit proces staat schematisch weergegeven in onderstaand figuur.
 
-![Een schematische weergave van het behandel proces](.gitbook/assets/21%20%282%29.png)
+![Een schematische weergave van het behandel proces](.gitbook/assets/21%20%282%29%20%281%29.png)
 
 ### Details van de melding
 
 Door op een specifieke melding te klikken in de lijst worden de details van de melding weergegeven:
 
-![Details van een melding](.gitbook/assets/22%20%282%29.png)
+![Details van een melding](.gitbook/assets/22%20%282%29%20%281%29.png)
 
 Het overzicht toont:
 
@@ -104,7 +104,7 @@ Soms meldt iemand in één melding meerdere soorten overlast. Het kan ook gebeur
 
 Voor de gemeente is het wél belangrijk welke afdeling de melding behandelt en in welke volgorde dat gebeurt: wij beoordelen na binnenkomst van de melding in SIA of de melding voor verschillende afdelingen is. Als dat zo is, dan maken we ‘Deelmeldingen’ in SIA. De oorspronkelijke melding blijft bestaan als ‘Hoofdmelding’.
 
-![Knop voor delen](.gitbook/assets/27%20%282%29.png)
+![Knop voor delen](.gitbook/assets/27%20%282%29%20%281%29.png)
 
 1. Zet de status van de hoofdmelding op ‘In behandeling’.
 2. Zet in de notities bij de hoofdmelding dat er twee of meer deelmeldingen nodig zijn die na elkaar moeten worden behandeld.
@@ -161,7 +161,7 @@ Als je niets doet met een melding die de status “Verzoek tot heropenen” heef
 
 Als een melding meer urgentie nodig heeft, dan kan dit gedaan worden door de urgentie te wijzigen naar Hoog.
 
-![Tabblad urgentie wijzigen](.gitbook/assets/30%20%282%29.png)
+![Tabblad urgentie wijzigen](.gitbook/assets/30%20%282%29%20%281%29.png)
 
 ### Subcategorie wijzigen
 
@@ -185,7 +185,7 @@ Meldingen die niet met voldoende zekerheid gecategoriseerd kunnen worden krijgen
 
 Het is ook mogelijk om de locatie van een melding te wijzigen.
 
-![Tabblad locatie wijzigen](.gitbook/assets/32%20%282%29.png)
+![Tabblad locatie wijzigen](.gitbook/assets/32%20%282%29%20%281%29.png)
 
 Je wijzigt de locatie van een melding door een punt op de kaart te kiezen of het adres handmatig in te voeren.
 
@@ -210,7 +210,7 @@ Via de knop “Notitie toevoegen” kan je een notitie toevoegen aan de melding.
 
 Wanneer er foto’s zijn geüpload, zie je deze gelijk in het detailscherm van de melding staan.
 
-![Toegevoegde foto&apos;s](.gitbook/assets/35%20%282%29.png)
+![Toegevoegde foto&apos;s](.gitbook/assets/35%20%282%29%20%281%29.png)
 
 ### Werkbon
 
@@ -231,7 +231,7 @@ De mail is momenteel nog simpel van opmaak.
 
 Per subcategorie en status zullen er standaard teksten beschikbaar worden gemaakt.
 
-![Standaardteksten](.gitbook/assets/37%20%282%29.png)
+![Standaardteksten](.gitbook/assets/37%20%282%29%20%281%29.png)
 
 ## Tijdelijke werkwijzen
 
@@ -254,7 +254,7 @@ Een lijst van e-mailadressen van externe partijen is beschikbaar in bijlage 1 va
 
 Maak na het versturen van de mail altijd handmatig een aantekening in SIA. Dit kan door een opmerking toe te voegen aan een status of door een notitie toe te voegen.
 
-![Extra opmerking toevoegen aan status](.gitbook/assets/38%20%281%29.png)
+![Extra opmerking toevoegen aan status](.gitbook/assets/38.png)
 
 
 

@@ -4,7 +4,7 @@
 
 Inwoners kunnen een Melding Openbare Ruimte en overlast \(ook wel bekend als MORA\) maken op de website waar de front-end van SIgnalen geinstalleerd is.
 
-![Het aanmaken van een melding via de website](.gitbook/assets/4%20%282%29.png)
+![Het aanmaken van een melding via de website](.gitbook/assets/4%20%282%29%20%281%29.png)
 
 ### Selecteren van een locatie
 
@@ -24,7 +24,7 @@ Voor sommige categorieën meldingen is het van belang om te weten of de overlast
 
 Het formulier biedt ook de mogelijkheid om drie foto’s toe te voegen.
 
-![Foto&apos;s toevoegen](.gitbook/assets/6%20%282%29.png)
+![Foto&apos;s toevoegen](.gitbook/assets/6%20%282%29%20%281%29.png)
 
 | **!** | Momenteel is het mogelijk om maximaal 3 bestanden te uploaden. |
 | :--- | :--- |
@@ -34,13 +34,13 @@ Het formulier biedt ook de mogelijkheid om drie foto’s toe te voegen.
 
 Anders dan in het oude formulier kunnen, na automatische bepalen van de categorie en subcategorie, gerichte vervolgvragen gesteld worden. Zo kan per categorie die specifieke informatie uitgevraagd worden die van belang is voor het opvolgen van dat specifieke type melding, zoals:
 
-![Voorbeeld van vervolgvragen. Deze kunnen per installatie  van Signalen verschillen](.gitbook/assets/7%20%282%29.png)
+![Voorbeeld van vervolgvragen. Deze kunnen per installatie  van Signalen verschillen](.gitbook/assets/7%20%282%29%20%281%29.png)
 
 ### Contactgegevens
 
 In de volgende stappen in het formulier wordt gevraagd om een telefoonnummer, zodat eventueel contact opgenomen kan worden met de melder indien er iets aan de melding niet duidelijk is. Een e-mailadres wordt gevraagd zodat we de melder een bevestiging van de melding kunnen sturen en per e-mail op de hoogte kunnen houden van de voortgang van het opvolgen van de melding:
 
-![Invoerveld e-mailadres](.gitbook/assets/8%20%282%29.png)
+![Invoerveld e-mailadres](.gitbook/assets/8%20%282%29%20%281%29.png)
 
 Het is niet verplicht om contactgegevens op te geven. Indien de melder ervoor kiest om dit wel te doen dan zullen de persoonsgegevens twee weken na het afronden van de melding worden verwijderd in verband met de privacy wetgeving.
 
@@ -58,7 +58,7 @@ De burger kan toestemming geven voor het delen van de gegevens met andere organi
 
 In de laatste stap komt de melder op de zogenoemde bedankt-pagina. Hier wordt ook verteld op welke manier en wanneer we de melding zullen opvolgen:
 
-![Voorbeeld van de bedank- pagina](.gitbook/assets/10%20%282%29.png)
+![Voorbeeld van de bedank- pagina](.gitbook/assets/10%20%282%29%20%281%29.png)
 
 ## Een melding maken \(voor medewerkers\)
 
@@ -68,7 +68,7 @@ Voor medewerkers die namens Amsterdammers een melding openbare ruimte invoeren i
 
 Geef hierbij aan via welke bron de melding binnenkomt.
 
-![Een bron van binnenkomst selecteren](.gitbook/assets/11%20%282%29.png)
+![Een bron van binnenkomst selecteren](.gitbook/assets/11%20%282%29%20%281%29.png)
 
 Hieronder volgt een lijst van mogelijke bronnen. Deze bronnen kunnen per installatie/organisatie verschilen:
 
@@ -98,11 +98,11 @@ Nadat je hebt aangegeven waar de melding over gaat, geeft Signalen aan op welke 
 
 Indien dit niet de juiste subcategorie is, kan je handmatig de juiste subcategorie selecteren. Hierna worden de uitvraagpagina’s die horen bij deze subcategorie getoond.
 
-![Handmatige wijzigen van subcategorie](.gitbook/assets/12%20%282%29.png)
+![Handmatige wijzigen van subcategorie](.gitbook/assets/12%20%282%29%20%281%29.png)
 
 ### Type meldingen
 
-![Type melding bepalen](.gitbook/assets/13%20%282%29.png)
+![Type melding bepalen](.gitbook/assets/13%20%282%29%20%281%29.png)
 
 **Melding**
 
@@ -128,7 +128,7 @@ Een verzoek dat niet onder dagelijks beheer valt, maar onder een langdurig traje
 
 Bij spoedeisende en/of gevaarlijke situaties kan de urgentie van de melding verhoogd worden naar Hoog. Ook kan de urgentie op Laag worden gezet.
 
-![Urgentie bepalen](.gitbook/assets/14%20%282%29.png)
+![Urgentie bepalen](.gitbook/assets/14%20%282%29%20%281%29.png)
 
 ## Een melding behandelen
 
@@ -228,7 +228,7 @@ Je opgeslagen filters kan je terug vinden onder ‘Mijn filters’.
 
 Vanuit dit scherm kan je naar het resultaat van het filter, het filter aanpassen of deze verwijderen.
 
-![Mijn filters](.gitbook/assets/18%20%282%29.png)
+![Mijn filters](.gitbook/assets/18%20%282%29%20%281%29.png)
 
 ### Vrij zoeken
 
@@ -240,7 +240,7 @@ Via de zoekbalk bovenaan je scherm kan je vrij zoeken naar meldingen. Op dit mom
 
 Door op de titel van de kolom te klikken kan je de sortering op- of aflopend instellen. Je kan op alle kolommen sorteren.
 
-![Sorteren](.gitbook/assets/20%20%282%29.png)
+![Sorteren](.gitbook/assets/20%20%282%29%20%281%29.png)
 
 
 
